@@ -104,3 +104,10 @@ content .content{
 .dropdown .part {
 
 }
+.flex-column1{
+    margin-top: 40px;
+    color: black;
+    background-color: whitesmoke;
+    float: right;
+
+}

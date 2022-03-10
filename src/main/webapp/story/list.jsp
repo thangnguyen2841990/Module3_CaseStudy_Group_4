@@ -22,7 +22,7 @@
         <div class="login">
             <ul>
                 <li><a href="#">Đăng nhập</a></li>
-                <li><a href="#">Đăng ký</a></li>
+                <li><a href="/StoryServlet?action=register">Đăng ký</a></li>
             </ul>
         </div>
 
